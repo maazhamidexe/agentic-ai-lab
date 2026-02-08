@@ -1,8 +1,9 @@
-# PRD.md — Agentic Boundary Lab  
+# Agentic Lab  
 ## Project: Swarm-Based Doctor Appointment Scheduler (LangGraph Agents)
 
 ---
 
+![Example of Swarm Agents Design Pattern](./image2.png)
 ## 1. Problem Statement
 
 ### Industry Vertical
