@@ -3,7 +3,7 @@
 
 ---
 
-![Example of Swarm Agents Design Pattern](./image2.png)
+![Example of Swarm Agents Design Pattern](./image1.png)
 ## 1. Problem Statement
 
 ### Industry Vertical
